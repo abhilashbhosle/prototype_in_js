@@ -1,0 +1,11 @@
+Prototype is responsible for this keyword,new,classes and prototypal inheritance.
+Everything in javascript is an Object.
+eg: array, string and functions are also derived from objects.
+ 
+   function multipleBy5(num){
+    return num*5
+   }
+   multipleBy5(5)
+   multipleBy5.power=2   ===//here we are using . with the function
+                              hence function is also an objects
+
